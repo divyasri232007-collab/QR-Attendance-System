@@ -1,0 +1,7 @@
+{
+  "name": "Copy of QR Code Attendance System",
+  "description": "A mobile-first web application for tracking student attendance using dynamically generated QR codes. The app simulates admin QR code generation and student scanning, capturing location data to ensure accurate, real-time attendance records.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
